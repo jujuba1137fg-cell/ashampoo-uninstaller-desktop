@@ -1,0 +1,10 @@
+# Default behavior
+*.woff binary
+
+*.json linguist-detectable=false
+*.tsx linguist-detectable 
+
+*.ico binary
+docs/*.html linguist-vendored
+
+# eof 852c4d51
