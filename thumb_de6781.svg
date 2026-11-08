@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 640" width="1280" height="640">
+  <defs>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7dff23"/>
+      <stop offset="100%" stop-color="#d900ee"/>
+    </linearGradient>
+    <pattern id="dots" width="40" height="40" patternUnits="userSpaceOnUse">
+      <circle cx="20" cy="20" r="1.5" fill="#95ab93" opacity="0.2"/>
+    </pattern>
+  </defs>
+  
+        <rect width="1280" height="640" fill="#184914"/>
+        <rect x="740" y="140" width="460" height="360" rx="24" fill="#161917" stroke="#242725" stroke-width="1"/>
+        <rect x="760" y="160" width="420" height="320" rx="16" fill="#7dff23" fill-opacity="0.03"/>
+        <g transform="translate(760, 180)">
+          <rect x="0" y="0" width="80" height="80" rx="20" fill="#7dff23"/>
+          <g transform="translate(10, 10)"><path d="M 40 28 L 40 44 M 32 38 L 40 46 L 48 38 M 28 52 L 52 52" stroke="#ffffff" stroke-width="3" stroke-linecap="round" fill="none"/></g>
+        </g>
+        <text x="860" y="210" fill="#ffffff" font-family="system-ui, sans-serif" font-size="22" font-weight="700">Everything you need.</text>
+        <text x="860" y="240" fill="#95ab93" font-family="system-ui, sans-serif" font-size="14">No bloatware, no nonsense.</text>
+        
+        <line x1="760" y1="290" x2="1180" y2="290" stroke="#242725" stroke-width="1"/>
+        <text x="760" y="330" fill="#7dff23" font-family="monospace" font-size="14">✓ Easy installation</text>
+        <text x="760" y="360" fill="#7dff23" font-family="monospace" font-size="14">✓ Lightweight</text>
+        <text x="760" y="390" fill="#7dff23" font-family="monospace" font-size="14">✓ Auto-updates</text>
+        
+        <text x="80" y="200" fill="#ffffff" font-family="system-ui, sans-serif" font-size="64" font-weight="900" text-anchor="start">Ashampoo</text>
+<text x="80" y="270" fill="#ffffff" font-family="system-ui, sans-serif" font-size="64" font-weight="900" text-anchor="start">Uninstaller…</text>
+
+        <text x="80" y="360" fill="#95ab93" font-family="system-ui, sans-serif" font-size="22" text-anchor="start">Clean, complete desktop uninstall utility build.</text>
+        <rect x="80" y="400" width="80" height="4" rx="2" fill="#7dff23"/>
+        <g transform="translate(80, 500)">
+    <g font-family="system-ui, sans-serif" font-size="14" fill="#ffffff" font-weight="600">
+      <rect x="0" y="0" width="100" height="40" rx="20" fill="#7dff23" fill-opacity="0.15" stroke="#7dff23" stroke-width="1"/>
+      <text x="50" y="25" text-anchor="middle">145 stars</text>
+      <rect x="115" y="0" width="150" height="40" rx="20" fill="#d900ee" fill-opacity="0.15" stroke="#d900ee" stroke-width="1"/>
+      <text x="190" y="25" text-anchor="middle">66K+ downloads</text>
+      <rect x="280" y="0" width="100" height="40" rx="20" fill="#184914" stroke="#242725" stroke-width="1"/>
+      <text x="330" y="25" text-anchor="middle">Windows</text>
+    </g>
+    </g>
+        
+</svg>
